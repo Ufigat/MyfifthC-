@@ -1,0 +1,11 @@
+C:\Users\Владыка\Desktop\L5\StringExample\bin\Debug\netcoreapp3.1\StringExample.exe
+C:\Users\Владыка\Desktop\L5\StringExample\bin\Debug\netcoreapp3.1\StringExample.deps.json
+C:\Users\Владыка\Desktop\L5\StringExample\bin\Debug\netcoreapp3.1\StringExample.runtimeconfig.json
+C:\Users\Владыка\Desktop\L5\StringExample\bin\Debug\netcoreapp3.1\StringExample.runtimeconfig.dev.json
+C:\Users\Владыка\Desktop\L5\StringExample\bin\Debug\netcoreapp3.1\StringExample.dll
+C:\Users\Владыка\Desktop\L5\StringExample\bin\Debug\netcoreapp3.1\StringExample.pdb
+C:\Users\Владыка\Desktop\L5\StringExample\obj\Debug\netcoreapp3.1\StringExample.csprojAssemblyReference.cache
+C:\Users\Владыка\Desktop\L5\StringExample\obj\Debug\netcoreapp3.1\StringExample.AssemblyInfoInputs.cache
+C:\Users\Владыка\Desktop\L5\StringExample\obj\Debug\netcoreapp3.1\StringExample.AssemblyInfo.cs
+C:\Users\Владыка\Desktop\L5\StringExample\obj\Debug\netcoreapp3.1\StringExample.dll
+C:\Users\Владыка\Desktop\L5\StringExample\obj\Debug\netcoreapp3.1\StringExample.pdb
